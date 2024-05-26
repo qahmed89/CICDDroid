@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">RetirmentCalculator</string>
+    <string name="monthly_saving">Monthly Saving</string>
+    <string name="current_age">Your Current Age</string>
+    <string name="insert_rate">Insert Rate</string>
+    <string name="planned_retirement_age">Planned Retirement Age</string>
+    <string name="current_saving">Current Saving</string>
+    <string name="calculate">Calculate</string>
+
+    <string
+        name="message_calculate">At this rate, with your current  monthly saving you will have %1$s by %2$s </string>
+
+
 </resources>
